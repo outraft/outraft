@@ -45,10 +45,10 @@ If I am online at GitHub or LinkedIn while not streaming, feel free to ask all t
 ---
 
 <details open>
-<summary><strong>🇹🇷 Türkçe Versiyon</strong></summary>
+<summary><strong>🇹🇷 Türkçe </strong></summary>
 
 ## GitHub sayfama hoş geldiniz!  
-Ben küçük, hatta indie sayılabilecek, iki dilli bir yazılım yayıncısıyım ve büyük bir hayalim var.  
+Ben küçük, hatta indie sayılabilecek, iki dil bilen ve bunları kullanan bir "dev streamer'im" ve büyük bir hayalim var.  
 Yayınlarımdan geldiysen, hoş geldin! Aradığın projeyi bulmanı umarım. Eğer Twitch'ten gelmiyorsan da endişe etme! [Twitch](https://www.twitch.tv/outraft) kanalımı buradan ziyaret edebilirsin!
 
 ### Ben kimim?  
@@ -59,7 +59,7 @@ Yayın açıp kod yazabileceğimi fark ettim ve bu da yayıncılığa başlamam�
 Evet, tanışabiliriz! Türkiye'de yüz yüze etkinlikler düzenlemem olası ama hayır, yüzümü göremeyeceksiniz.
 
 ### LinkedIn’inde yüzün var?  
-Evet, var! Elindekilerle yetinmek zorundasın.
+Evet, var! Elinizdekiyle yetinin.
 
 ### Sana nasıl destek olabiliriz?  
 Buy Me a Coffee ve Patreon üzerinden destek olabilirsin.
