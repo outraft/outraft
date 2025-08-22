@@ -13,60 +13,30 @@
   </a>
 </p>
 
-## 🌍 🇬🇧 EN | 🇹🇷 TR
+## 🌍 🇬🇧 EN | Originated: 🇹🇷 TR
 
 <details>
 <summary><strong>🇬🇧 English Version</strong></summary>
 
 ## Welcome to my GitHub page!
-I am a small, indie even, bilingual dev streamer with a dream.  
-If you are here from my streams, welcome! Hope you can find the project you need! If not, fear not! You can visit my [twitch](https://www.twitch.tv/outraft) here!
+I am a small, indie even, bilingual dev with a dream - breaking into F1 as a data analyst.  
+I might, just might open streams/youtube page for my progress, stay tuned.
 
 ### Who am I?
 I am Ersin — real name — a computer engineering student in Turkey.  
-I had an awakening such that I can stream while I code, which is primarily why I started streaming.
-
-### Will I be able to meet you?
-Well, yes! I might hold some face-to-face events located in Turkey but no, you will not see my face.
-
-### Your LinkedIn has your photo?
-It does indeed! Make do with what you have.
+I have a mission to be the worlds first data analyst as a Turkish person for F1.
+Yes, my GPA is enough, yes I know this is a hard dream - stop thinking about it.
 
 ### How can I support you?
 You can support me through Buy Me a Coffee and Patreon.
 
-### Anything else we should know?
-If I am online at GitHub or LinkedIn while not streaming, feel free to ask all the questions you want!
+### Important Links
+You might inevitably search for these, let me give you the important ones:\
+www.linkedin.com/in/ersintezguler\
+https://github.com/outraft\
+https://x.com/ersinsendromu
 
-> Stay safe... and wear thigh highs...
-
-</details>
-
----
-
-<details open>
-<summary><strong>🇹🇷 Türkçe </strong></summary>
-
-## GitHub sayfama hoş geldiniz!  
-Ben küçük, hatta indie sayılabilecek, iki dil bilen ve bunları kullanan bir "dev streamer'im" ve büyük bir hayalim var.  
-Yayınlarımdan geldiysen, hoş geldin! Aradığın projeyi bulmanı umarım. Eğer Twitch'ten gelmiyorsan da endişe etme! [Twitch](https://www.twitch.tv/outraft) kanalımı buradan ziyaret edebilirsin!
-
-### Ben kimim?  
-Ben Ersin — gerçek ismim bu — Türkiye'de bilgisayar mühendisliği öğrencisiyim.  
-Yayın açıp kod yazabileceğimi fark ettim ve bu da yayıncılığa başlamamın temel sebebi oldu.
-
-### Seninle tanışabilecek miyiz?  
-Evet, tanışabiliriz! Türkiye'de yüz yüze etkinlikler düzenlemem olası ama hayır, yüzümü göremeyeceksiniz.
-
-### LinkedIn’inde yüzün var?  
-Evet, var! Elinizdekiyle yetinin.
-
-### Sana nasıl destek olabiliriz?  
-Buy Me a Coffee ve Patreon üzerinden destek olabilirsin.
-
-### Bilmemiz gereken başka bir şey var mı?  
-Eğer GitHub ya da LinkedIn’de çevrim içiysem ama yayında değilsem, bana istediğin tüm soruları sorabilirsin!
-
-> Kendine iyi bak… ve diz üstü çorap giymeyi unutma...
+> You are suddenly filled with years of muscle memory for a code you've never wrote...
 
 </details>
+
