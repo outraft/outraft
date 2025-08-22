@@ -15,7 +15,7 @@
 
 ## 🌍 🇬🇧 EN | Originated: 🇹🇷 TR
 
-## Welcome to my GitHub page!
+### Welcome to my GitHub page!
 I am a small, indie even, bilingual dev with a dream - breaking into F1 as a data analyst.  
 I might, just might open streams/youtube page for my progress, stay tuned.
 
