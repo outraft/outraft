@@ -29,8 +29,8 @@ You can support me through Buy Me a Coffee and Patreon.
 
 ### Important Links
 You might inevitably search for these, let me give you the important ones:\
-www.linkedin.com/in/ersintezguler\
-https://github.com/outraft\
+www.linkedin.com/in/ersintezguler \
+https://github.com/outraft \
 https://x.com/ersinsendromu
 
 > You are suddenly filled with years of muscle memory for a code you've never wrote...
