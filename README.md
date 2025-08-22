@@ -16,7 +16,7 @@
 ## 🌍 🇬🇧 EN | Originated: 🇹🇷 TR
 
 <details>
-<summary><strong>🇬🇧 English Version</strong></summary>
+<strong>🇬🇧 English Version</strong>
 
 ## Welcome to my GitHub page!
 I am a small, indie even, bilingual dev with a dream - breaking into F1 as a data analyst.  
