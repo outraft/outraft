@@ -15,7 +15,6 @@
 
 ## 🌍 🇬🇧 EN | Originated: 🇹🇷 TR
 
-<details>
 <strong>🇬🇧 English Version</strong>
 
 ## Welcome to my GitHub page!
@@ -38,5 +37,4 @@ https://x.com/ersinsendromu
 
 > You are suddenly filled with years of muscle memory for a code you've never wrote...
 
-</details>
 
