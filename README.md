@@ -1,16 +1,5 @@
 <p align="center">
-  <a href="https://www.twitch.tv/outraft">
-    <img src="https://img.shields.io/static/v1?logo=twitch&label=&message=Twitch&color=9146FF&style=flat-square" alt="Twitch">
-  </a>
-  <a href="https://patreon.com/outraft?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">
-    <img src="https://img.shields.io/static/v1?logo=patreon&label=&message=Patreon&color=FF424D&style=flat-square" alt="Patreon">
-  </a>
-  <a href="https://coff.ee/outraft">
-    <img src="https://img.shields.io/static/v1?logo=buymeacoffee&label=&message=Buy%20Me%20a%20Coffee&color=FFDD00&style=flat-square" alt="Buy Me a Coffee">
-  </a>
-  <a href="https://github.com/outraft">
-    <img src="https://komarev.com/ghpvc/?username=outraft&style=flat-square" alt="Profile Views">
-  </a>
+  <img src="https://m.gjcdn.net/community-header/1200/119468-crop0_183_1242_494-pkkji2u9-v4.webp">
 </p>
 
 ## 🌍 🇬🇧 EN | Originated: 🇹🇷 TR
@@ -33,6 +22,21 @@ www.linkedin.com/in/ersintezguler \
 https://github.com/outraft \
 https://x.com/ersinsendromu
 
-> You are suddenly filled with years of muscle memory for a code you've never wrote...
+> You are suddenly filled with years of muscle memory for a code you've never wrote...\
 
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra">
 
+<p align="center">
+  <a href="https://www.twitch.tv/outraft">
+    <img src="https://img.shields.io/static/v1?logo=twitch&label=&message=Twitch&color=9146FF&style=flat-square" alt="Twitch">
+  </a>
+  <a href="https://patreon.com/outraft?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">
+    <img src="https://img.shields.io/static/v1?logo=patreon&label=&message=Patreon&color=FF424D&style=flat-square" alt="Patreon">
+  </a>
+  <a href="https://coff.ee/outraft">
+    <img src="https://img.shields.io/static/v1?logo=buymeacoffee&label=&message=Buy%20Me%20a%20Coffee&color=FFDD00&style=flat-square" alt="Buy Me a Coffee">
+  </a>
+  <a href="https://github.com/outraft">
+    <img src="https://komarev.com/ghpvc/?username=outraft&style=flat-square" alt="Profile Views">
+  </a>
+</p>
