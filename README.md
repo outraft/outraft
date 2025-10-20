@@ -26,7 +26,7 @@ https://x.com/ersinsendromu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact">
 </p>
 
 <p align="center">
