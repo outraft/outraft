@@ -21,9 +21,22 @@ https://x.com/ersinsendromu
 
 ### My Techstack
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=20" />
-  <img src="https://cdn.simpleicons.org/c++?viewbox=auto&size=20" />
-  <img src="https://cdn.simpleicons.org/c?viewbox=auto&size=20" />
+  <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/sql?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/c++?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/c?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/c#?viewbox=auto&size=40" />
+</p>
+
+### Meaning To Learn
+<p align="center">
+  <img src="https://cdn.simpleicons.org/rust?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/assembly?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/java?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/lua?viewbox=auto&size=40" />
+  
 </p>
 
 > You are suddenly filled with years of muscle memory for a code you've never wrote...\
