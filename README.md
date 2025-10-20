@@ -24,7 +24,10 @@ https://x.com/ersinsendromu
 
 > You are suddenly filled with years of muscle memory for a code you've never wrote...\
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact>
+</p>
 
 <p align="center">
   <a href="https://www.twitch.tv/outraft">
