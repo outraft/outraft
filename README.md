@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://m.gjcdn.net/community-header/1200/119468-crop0_183_1242_494-pkkji2u9-v4.webp">
+  <img src="./header/header.jpg">
 </p>
 ### Welcome to my GitHub page!
-I am a small, indie even, bilingual dev with a dream - breaking into F1 as a data analyst.  
+I am a small, indie even, bilingual dev with a dream - breaking into F1 as a data analyst.
 I might, just might open streams/youtube page for my progress, stay tuned.
 
 ### Who am I?
-I am Ersin — real name — a computer engineering student in Turkey.  
+I am Ersin — real name — a computer engineering student in Turkey.
 I have a mission to be the worlds first data analyst as a Turkish person for F1.
 Yes, my GPA is enough, yes I know this is a hard dream - stop thinking about it.
 
@@ -26,17 +26,17 @@ https://x.com/ersinsendromu
   <img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=40" />
   <img src="https://cdn.simpleicons.org/c++?viewbox=auto&size=40" />
   <img src="https://cdn.simpleicons.org/c?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/c#?viewbox=auto&size=40" />
+  <img src="./icons/csharp.svg" alt="C#" width="40" height="40"/>
 </p>
 
 ### Meaning To Learn
 <p align="center">
   <img src="https://cdn.simpleicons.org/rust?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/assembly?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/java?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/lua?viewbox=auto&size=40" />
-  
+  <img src="./icons/assembly.svg" alt="Assembly" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=40" alt="Javascript"/>
+  <img src="./icons/java.svg" alt="Java" width="40" height="40">
+  <img src="https://cdn.simpleicons.org/lua?viewbox=auto&size=40" alt="Lua"/>
+  <img src="./icons/net.svg" alt="dotNet" width="40" height="40">
 </p>
 
 > You are suddenly filled with years of muscle memory for a code you've never wrote...\
