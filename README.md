@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://m.gjcdn.net/community-header/1200/119468-crop0_183_1242_494-pkkji2u9-v4.webp">
 </p>
-
-## 🌍 🇬🇧 EN | Originated: 🇹🇷 TR
-
 ### Welcome to my GitHub page!
 I am a small, indie even, bilingual dev with a dream - breaking into F1 as a data analyst.  
 I might, just might open streams/youtube page for my progress, stay tuned.
@@ -22,11 +19,18 @@ www.linkedin.com/in/ersintezguler \
 https://github.com/outraft \
 https://x.com/ersinsendromu
 
+### My Techstack
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=20" />
+  <img src="https://cdn.simpleicons.org/c++?viewbox=auto&size=20" />
+  <img src="https://cdn.simpleicons.org/c?viewbox=auto&size=20" />
+</p>
+
 > You are suddenly filled with years of muscle memory for a code you've never wrote...\
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula">\
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula">
 </p>
 
 <p align="center">
