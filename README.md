@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./header/header.jpg">
+  <img src="./header/header.svg">
 </p>
+
 ### Welcome to my GitHub page!
 I am a small, indie even, bilingual dev with a dream - breaking into F1 as a data analyst.
 I might, just might open streams/youtube page for my progress, stay tuned.
@@ -20,9 +21,10 @@ https://github.com/outraft \
 https://x.com/ersinsendromu
 
 ### My Techstack
+---
 <p align="center">
   <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/sql?viewbox=auto&size=40" />
+  <img src="./icons/sql.svg" alt="SQL" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=40" />
   <img src="https://cdn.simpleicons.org/c++?viewbox=auto&size=40" />
   <img src="https://cdn.simpleicons.org/c?viewbox=auto&size=40" />
@@ -30,6 +32,7 @@ https://x.com/ersinsendromu
 </p>
 
 ### Meaning To Learn
+---
 <p align="center">
   <img src="https://cdn.simpleicons.org/rust?viewbox=auto&size=40" />
   <img src="./icons/assembly.svg" alt="Assembly" width="40" height="40"/>
