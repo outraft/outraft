@@ -37,7 +37,7 @@ You might inevitably search for these, let me give you the important ones:\
 www.linkedin.com/in/ersintezguler \
 https://x.com/ersinsendromu
 
-### My Techstack
+<div align="center">### My Techstack</div>
 ---
 <p align="center">
   <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=40" />
@@ -50,7 +50,7 @@ https://x.com/ersinsendromu
   <img src="./icons/csharp.svg" alt="C#" width="40" height="40"/>
 </p>
 
-### Meaning To Learn
+<div align="center">### Meaning To Learn</div>
 ---
 <p align="center">
   <img src="https://cdn.simpleicons.org/rust?viewbox=auto&size=40" />
