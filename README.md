@@ -49,11 +49,12 @@ https://x.com/ersinsendromu
 <details>
   <summary>My GitHub Stats</summary>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula" 
-       style="vertical-align: middle; margin-right: 10px; margin-bottom: 10px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&langs_count=10&theme=dracula" 
-       style=" vertical-align: middle;">
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula" 
+         style="margin-bottom: 20px;">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&langs_count=10&theme=dracula">
+  </p>
 </details>
 
 
