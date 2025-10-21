@@ -26,8 +26,8 @@ https://x.com/ersinsendromu
 ---
 <p align="center">
   <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/html?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/css?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/html5?viewbox=auto&size=40" />
+  <img src="./icons/css.svg" alt="CSS" width="40" heigth="40" />
   <img src="./icons/sql.svg" alt="SQL" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=40" />
   <img src="https://cdn.simpleicons.org/c++?viewbox=auto&size=40" />
