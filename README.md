@@ -74,9 +74,11 @@ https://x.com/ersinsendromu
   </p>
 </details>
 
-<p align="center">
-  <h3>Thank you for visiting my GitHub page!</h3>
-</p>
+<div style="text-align: center;">
+  <hr style="width: 50%;">
+  <h3 style="margin: 0;">Thank you for visiting my GitHub page!</h3>
+  <hr style="width: 50%;">
+</div>
 
 <p align="center">
   <img src="./header/outro.gif" width="200" height="200" justify-content="center" display-blocks="flex">
