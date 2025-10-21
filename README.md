@@ -75,5 +75,6 @@ https://x.com/ersinsendromu
 </details>
 
 <p align="center">
-  <img src="./header/outro.gif">
+  <img src="./header/outro.gif" width="200" height="200" justify-content="center" display-blocks="flex">
+  <img src="./header/boogie.gif" width="200" height="200" justify-content="center" display-blocks="flex">
 </p>
