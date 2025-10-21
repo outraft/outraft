@@ -47,8 +47,10 @@ https://x.com/ersinsendromu
 > You are suddenly filled with years of muscle memory for a code you've never wrote...
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula" style="display:inline-block; margin-right: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula" style="display:inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula" 
+       style="display:inline-block; vertical-align: middle; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula" 
+       style="display:inline-block; vertical-align: middle;">
 </p>
 
 <p align="center">
