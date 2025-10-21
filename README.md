@@ -46,11 +46,10 @@ https://x.com/ersinsendromu
 
 > You are suddenly filled with years of muscle memory for a code you've never wrote...
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula">
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula" style="display:inline-block; margin-right: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula" style="display:inline-block;">
+</p>
 
 <p align="center">
   <a href="https://www.twitch.tv/outraft">
