@@ -75,6 +75,10 @@ https://x.com/ersinsendromu
 </details>
 
 <p align="center">
+  <h3>Thank you for visiting my GitHub page!</h3>
+</p>
+
+<p align="center">
   <img src="./header/outro.gif" width="200" height="200" justify-content="center" display-blocks="flex">
   <img src="./header/boogie.gif" width="200" height="200" justify-content="center" display-blocks="flex">
 </p>
