@@ -75,6 +75,7 @@ https://x.com/ersinsendromu
 </details>
 
 <div align="center">
+
 ### Thank you for visiting my GitHub page!
 
 ---
