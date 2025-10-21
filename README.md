@@ -20,7 +20,6 @@ You can support me through Buy Me a Coffee and Patreon.
 ---
 You might inevitably search for these, let me give you the important ones:\
 www.linkedin.com/in/ersintezguler \
-https://github.com/outraft \
 https://x.com/ersinsendromu
 
 ### My Techstack
@@ -45,7 +44,7 @@ https://x.com/ersinsendromu
   <img src="./icons/net.svg" alt="dotNet" width="40" height="40">
 </p>
 
-> You are suddenly filled with years of muscle memory for a code you've never wrote...\
+> You are suddenly filled with years of muscle memory for a code you've never wrote...
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula"><br>
