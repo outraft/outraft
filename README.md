@@ -47,7 +47,7 @@ https://x.com/ersinsendromu
 > You are suddenly filled with years of muscle memory for a code you've never wrote...
 
 <details>
-  <summary>My GitHub Stats</summary>
+  <summary><h3>My GitHub Stats</h3></summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula" 
          style="margin-bottom: 20px;">
