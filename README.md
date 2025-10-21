@@ -20,13 +20,14 @@ You can support me through Buy Me a Coffee and Patreon.
 ---
 You might inevitably search for these, let me give you the important ones:\
 www.linkedin.com/in/ersintezguler \
-https://github.com/outraft \
 https://x.com/ersinsendromu
 
 ### My Techstack
 ---
 <p align="center">
   <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=40" />
+  <img src="https://cdn.simpleicons.org/html5?viewbox=auto&size=40" />
+  <img src="./icons/css.svg" alt="CSS" width="40" heigth="40" />
   <img src="./icons/sql.svg" alt="SQL" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=40" />
   <img src="https://cdn.simpleicons.org/c++?viewbox=auto&size=40" />
@@ -45,12 +46,19 @@ https://x.com/ersinsendromu
   <img src="./icons/net.svg" alt="dotNet" width="40" height="40">
 </p>
 
-> You are suddenly filled with years of muscle memory for a code you've never wrote...\
+> You are suddenly filled with years of muscle memory for a code you've never wrote...
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula">
-</p>
+<details>
+  <summary><h3>My GitHub Stats</h3></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula" 
+         style="margin-bottom: 20px;">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&langs_count=10&theme=dracula">
+  </p>
+</details>
+
 
 <p align="center">
   <a href="https://www.twitch.tv/outraft">
