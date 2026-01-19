@@ -17,15 +17,12 @@
   <img src="./header/header.png">
 </p>
 
-### Welcome to my GitHub page!
-I am a small, indie even, bilingual dev with a dream - breaking into F1 as a data analyst.
-I might, just might open streams/youtube page for my progress, stay tuned.
+## Welcome to my GitHub page!
 
 ### Who am I?
 ---
 I am Ersin — real name — a computer engineering student in Turkey.
-I have a mission to be the worlds first data analyst as a Turkish person for F1.
-Yes, my GPA is enough, yes I know this is a hard dream - stop thinking about it.
+I am a aspiring low-level systems engineer.
 
 ### How can I support you?
 ---
