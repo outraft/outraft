@@ -41,7 +41,7 @@ If I am not coding, I am watching anime. DND.
 > Despite everything, it is still **you**.
 
 
-### ⚙️ Currently Engineering: Zero-Trust Custom Silicon 
+### Currently Engineering: Zero-Trust Custom Silicon 
 > *Targeting TEKNOFEST Microchip Category & TÜBİTAK BİGG*
 
 I am currently designing and building a custom RISC microprocessor from the physical logic gates up. No standard ARM/x86 bloat. No inherited hardware vulnerabilities.
