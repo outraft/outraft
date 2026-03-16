@@ -13,39 +13,19 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./header/header.png">
-</p>
-
 ## Welcome to my GitHub page!
 
 ### Who am I?
 ---
-I am Ersin — real name — a computer engineering student in Turkey.
-I am a aspiring low-level systems engineer.
-
-### How can I support you?
----
-You can support me through Buy Me a Coffee and Patreon.
-
-### Important Links
----
-You might inevitably search for these, let me give you the important ones:\
-www.linkedin.com/in/ersintezguler \
-https://x.com/ersinsendromu
-
-<div align="center">
+I am Ersin, a computer engineering student in Turkey.
+I am a low-level systems engineer, working barebones in C.
   
 ### My Techstack
 
 ---
 
-</div>
-
 <p align="center">
   <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/html5?viewbox=auto&size=40" />
-  <img src="./icons/css.svg" alt="CSS" width="40" heigth="35" />
   <img src="./icons/sql.svg" alt="SQL" width="40" height="80" />
   <img src="https://cdn.simpleicons.org/postgresql?viewbox=auto&size=40" />
   <img src="https://cdn.simpleicons.org/c++?viewbox=auto&size=40" />
@@ -54,22 +34,22 @@ https://x.com/ersinsendromu
 </p>
 
 <div align="center">
-  
-### Meaning To Learn
 
----
-  
-</div>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/rust?viewbox=auto&size=40" />
-  <img src="./icons/assembly.svg" alt="Assembly" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=40" alt="Javascript"/>
-  <img src="./icons/java.svg" alt="Java" width="40" height="40">
-  <img src="https://cdn.simpleicons.org/lua?viewbox=auto&size=40" alt="Lua"/>
-  <img src="./icons/net.svg" alt="dotNet" width="40" height="40">
-</p>
 
-> You are suddenly filled with years of muscle memory for a code you've never wrote...
+> Despite everything, it is still **you**.
+
+
+### ⚙️ Currently Engineering: Zero-Trust Custom Silicon 
+> *Targeting TEKNOFEST Microchip Category & TÜBİTAK BİGG*
+
+I am currently designing and building a custom RISC microprocessor from the physical logic gates up. No standard ARM/x86 bloat. No inherited hardware vulnerabilities.
+
+**The Architecture:**
+- **Physical Harvard Architecture:** Air-gapped data and instruction buses at the gate level.
+- **Custom Instruction Set (ISA):** Implementing misaligned instruction widths to make standard buffer-overflow malware physically impossible to execute.
+- **The Stack:** `Verilog` | `FPGA` | `Custom Assembly` | `Bare-Metal OS in C`
+
+`[░░░░░░░░░░░░] 0% - In talks but will commence.`
 
 <details>
   <summary><h3>My GitHub Stats</h3></summary>
@@ -86,12 +66,9 @@ https://x.com/ersinsendromu
 
 ### Thank you for visiting my GitHub page!
 
+#### Buy me a coffee. Or not. It is your money still.
+
 ---
 
 </div>
 
-
-<p align="center">
-  <img src="./header/outro.gif" width="200" height="200" justify-content="center" display-blocks="flex">
-  <img src="./header/boogie.gif" width="200" height="200" justify-content="center" display-blocks="flex">
-</p>
