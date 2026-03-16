@@ -18,8 +18,12 @@
 ### Who am I?
 ---
 I am Ersin, a computer engineering student in Turkey.
+
 I am a low-level systems engineer, working barebones in C.
-  
+
+If I am not coding, I am watching anime. DND.
+
+
 ### My Techstack
 
 ---
@@ -32,8 +36,6 @@ I am a low-level systems engineer, working barebones in C.
   <img src="https://cdn.simpleicons.org/c?viewbox=auto&size=40" />
   <img src="./icons/csharp.svg" alt="C#" width="40" height="40"/>
 </p>
-
-<div align="center">
 
 
 > Despite everything, it is still **you**.
