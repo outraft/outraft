@@ -15,7 +15,6 @@
 
 ## Welcome to my GitHub page!
 
-<p align="center">
 ### Who am I?
 ---
 I am Ersin, a computer engineering student in Turkey.
@@ -37,7 +36,7 @@ If I am not coding, I am watching anime. DND.
   <img src="https://cdn.simpleicons.org/c?viewbox=auto&size=40" />
   <img src="./icons/csharp.svg" alt="C#" width="40" height="40"/>
 </p>
-</p>
+
 
 > Despite everything, it is still **you**.
 
