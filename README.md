@@ -41,8 +41,11 @@ If I am not coding, I am watching anime. DND.
 > Despite everything, it is still **you**.
 
 
-### Currently Engineering: Zero-Trust Custom Silicon 
-> *Targeting TEKNOFEST Microchip Category & TÜBİTAK BİGG*
+## Currently Engineering: 
+
+### Zero-Trust Custom Silicon
+
+> *Targeting TEKNOFEST Microchip Category for 2027 & TÜBİTAK BİGG*
 
 I am currently designing and building a custom RISC microprocessor from the physical logic gates up. No standard ARM/x86 bloat. No inherited hardware vulnerabilities.
 
@@ -52,6 +55,19 @@ I am currently designing and building a custom RISC microprocessor from the phys
 - **The Stack:** `Verilog` | `FPGA` | `Custom Assembly` | `Bare-Metal OS in C`
 
 `[░░░░░░░░░░░░] 0% - In talks but will commence.`
+
+### Discord Bot for The Cardboard Society - TCS
+
+I am currently developing the core infrastructure and automation bot for the TCS community server.
+
+**The Architecture**
+- **Event-Driven Backend:** Utilizing asynchronous API handling via `discord.py` to manage concurrent user requests without blocking the main thread.
+- **Dynamic State Management:** Analyzing user behavior to dynamically add, delete, and update custom interactable embeds in real-time. 
+- **The Stack:** `Python 3` | `discord.py` | `Asyncio`
+
+`[█░░░░░░░░░░░] 10% - Started with the simple folder structure.`
+
+---
 
 <details>
   <summary><h3>My GitHub Stats</h3></summary>
