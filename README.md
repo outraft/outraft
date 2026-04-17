@@ -21,8 +21,6 @@ I am Ersin, a computer engineering student in Turkey.
 
 I am a low-level systems engineer, working barebones in C.
 
-If I am not coding, I am watching anime. DND.
-
 
 ### My Techstack
 
