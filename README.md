@@ -39,50 +39,5 @@ I am a low-level systems engineer, working barebones in C.
 > Despite everything, it is still **you**.
 
 
-## Currently Engineering: 
 
-### Zero-Trust Custom Silicon
-
-> *Targeting TEKNOFEST Microchip Category for 2027 & TÜBİTAK BİGG*
-
-I am currently designing and building a custom RISC microprocessor from the physical logic gates up. No standard ARM/x86 bloat. No inherited hardware vulnerabilities.
-
-**The Architecture:**
-- **Physical Harvard Architecture:** Air-gapped data and instruction buses at the gate level.
-- **Custom Instruction Set (ISA):** Implementing misaligned instruction widths to make standard buffer-overflow malware physically impossible to execute.
-- **The Stack:** `Verilog` | `FPGA` | `Custom Assembly` | `Bare-Metal OS in C`
-
-`[░░░░░░░░░░░░] 0% - In talks but will commence.`
-
-### Discord Bot for The Cardboard Society - TCS
-
-I am currently developing the core infrastructure and automation bot for the TCS community server.
-
-**The Architecture**
-- **Event-Driven Backend:** Utilizing asynchronous API handling via `discord.py` to manage concurrent user requests without blocking the main thread.
-- **Dynamic State Management:** Analyzing user behavior to dynamically add, delete, and update custom interactable embeds in real-time. 
-- **The Stack:** `Python 3` | `discord.py` | `Asyncio`
-
-`[█░░░░░░░░░░░] 10% - Started with the simple folder structure.`
-
----
-
-<details>
-  <summary><h3>My GitHub Stats</h3></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=outraft&theme=dracula" 
-         style="margin-bottom: 20px;">
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outraft&size_weight=0.5&count_weight=0.5&langs_count=10&theme=dracula">
-  </p>
-</details>
-
-<div align="center">
-
-### Thank you for visiting my GitHub page!
-
-#### Buy me a coffee. Or not. It is your money still.
-
-</div>
-
+I will be updating and creating a portfolio website, so my readme is in **WIP**. Thank you for your understanding.
